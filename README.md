@@ -1,5 +1,3 @@
-# Week-1-AQI-Prediction-India
-“Air Quality Index Prediction &amp; Forecasting for Indian Cities using ML”.
 # Air Quality Index (AQI) Prediction & Forecasting for Indian Cities
 
 ## 📌 Problem Statement
@@ -28,5 +26,3 @@ This project analyzes historical air quality data to:
 ## ✅ Week 1 Deliverables
 - `README.md`  
 - `notebooks/01_eda.ipynb`  
-
----
