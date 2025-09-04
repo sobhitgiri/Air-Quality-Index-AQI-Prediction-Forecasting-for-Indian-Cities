@@ -25,4 +25,29 @@ This project analyzes historical air quality data to:
 
 ## ✅ Week 1 Deliverables
 - `README.md`  
-- `notebooks/01_eda.ipynb`  
+- `notebooks/data exploration.ipynb`
+  
+  ## 📌 Week-2 Progress
+
+### 🔹 Tasks Completed
+- Preprocessed dataset:
+  - Handled missing values using forward fill  
+  - Engineered new features (year, month, weekday, season)  
+  - Encoded categorical variable (`city`) into numerical format  
+  - Scaled numerical features using `StandardScaler`  
+- Split dataset into training & testing sets (80:20)  
+- Implemented baseline ML models:
+  - **Linear Regression**  
+  - **Random Forest Regressor**  
+- Evaluated models using performance metrics:
+  - RMSE (Root Mean Squared Error)  
+  - MAE (Mean Absolute Error)  
+  - R² Score (Coefficient of Determination)  
+
+### 🔹 Deliverables
+- Notebook: 02_preprocessing
+            03_model_training
+            04_evaluation
+- Dataset: `air_quality_data.csv` (stored in repo as instructed)  
+- Results: Model comparison table & performance metrics  
+
