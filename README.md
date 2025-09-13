@@ -47,7 +47,7 @@ This project analyzes historical air quality data to:
   - Missing values identified and handled  
   - Visual insights generated for AQI trends, correlations, and seasonality  
 
-  
+  ## ✅ Week 2 Deliverables
   ## 📌 Week-2 Progress
 
 ### 🔹 Tasks Completed
@@ -72,6 +72,7 @@ This project analyzes historical air quality data to:
 - Dataset: `air_quality_data.csv` (stored in repo as instructed)  
 - Results: Model comparison table & performance metrics
   
+ ## ✅ Week 3 Deliverables 
 ## 📌 Week 3 Progress (Final Milestone – 100%)
 
 ### 🔹 Tasks Completed
