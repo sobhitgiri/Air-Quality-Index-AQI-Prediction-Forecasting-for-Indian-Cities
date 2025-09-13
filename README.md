@@ -128,3 +128,44 @@ This project analyzes historical air quality data to:
 🧪 Testing: Automated tests for data and edge cases
 🎨 Modern UI: Clean, responsive, and user-friendly interface
 
+<img width="1919" height="1004" alt="Screenshot 2025-09-13 214312" src="https://github.com/user-attachments/assets/d0ad16ac-d3ac-4b4c-b11a-d24e91627267" />
+
+<img width="827" height="875" alt="Screenshot 2025-09-13 214437" src="https://github.com/user-attachments/assets/e10d0f2f-da2d-4e9d-9a40-9e8f69b3a949" />
+
+<img width="822" height="708" alt="Screenshot 2025-09-13 214503" src="https://github.com/user-attachments/assets/05edc1ac-77f4-4036-86bd-369dadb2f751" />
+
+<img width="825" height="629" alt="Screenshot 2025-09-13 214520" src="https://github.com/user-attachments/assets/2d45ca02-fba0-4997-abde-0dd020745879" />
+
+<img width="588" height="698" alt="Screenshot 2025-09-13 214552" src="https://github.com/user-attachments/assets/5cae533b-0a8a-44f0-857a-4395bfc0ec2b" />
+
+<img width="1520" height="869" alt="Screenshot 2025-09-13 214644" src="https://github.com/user-attachments/assets/9ef88dc0-783f-4691-8d48-d0db83f9ca91" />
+
+<img width="1177" height="872" alt="Screenshot 2025-09-13 214825" src="https://github.com/user-attachments/assets/7857011a-c87b-4ce2-b635-1a6703ba2673" />
+
+<img width="1518" height="874" alt="Screenshot 2025-09-13 214856" src="https://github.com/user-attachments/assets/ccff6b81-aa6f-4442-ac5f-2c25c1d6714c" />
+
+<img width="1522" height="819" alt="Screenshot 2025-09-13 215001" src="https://github.com/user-attachments/assets/07d3373a-c9b2-45d5-8d54-69ca5672648e" />
+
+<img width="1519" height="871" alt="Screenshot 2025-09-13 215106" src="https://github.com/user-attachments/assets/cd36486a-9767-42c3-b472-293e49a77b79" />
+
+<img width="1522" height="874" alt="Screenshot 2025-09-13 215259" src="https://github.com/user-attachments/assets/4c571603-0d08-48bb-998d-c6cd241d132f" />
+
+<img width="1520" height="782" alt="Screenshot 2025-09-13 215422" src="https://github.com/user-attachments/assets/7824c10c-dd05-4d6e-93d9-34467b7c515f" />
+
+<img width="401" height="70" alt="Screenshot 2025-09-13 215452" src="https://github.com/user-attachments/assets/1f911cf9-9279-47ef-bfe3-808ffdf5264d" />
+<img width="1375" height="904" alt="Screenshot 2025-09-13 215518" src="https://github.com/user-attachments/assets/fa94c45f-0dd0-443b-a6bc-75c6d015db19" />
+
+<img width="345" height="69" alt="Screenshot 2025-09-13 215532" src="https://github.com/user-attachments/assets/1fd0a8a5-e280-4aa1-bc78-cf695a298e53" />
+<img width="1120" height="854" alt="Screenshot 2025-09-13 215558" src="https://github.com/user-attachments/assets/dae99430-cf84-4155-88fb-2f50fd231e6d" />
+
+
+
+
+
+
+
+
+
+
+
+
