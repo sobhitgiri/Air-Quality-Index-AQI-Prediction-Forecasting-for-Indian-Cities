@@ -118,7 +118,7 @@ This project analyzes historical air quality data to:
 
   <img width="1300" height="551" alt="Screenshot 2025-09-13 232050" src="https://github.com/user-attachments/assets/7ed36ee6-9e34-4f3e-83d1-2c08e7383715" />
 
-🚀 Features
+🚀 Features:-
 📊 Data Exploration: Visualize AQI data, distributions, and correlations
 🧹 Preprocessing: Handle missing values, remove outliers, and select features
 🤖 Modeling: Train Random Forest, Logistic Regression, or XGBoost models
@@ -153,11 +153,28 @@ This project analyzes historical air quality data to:
 <img width="1520" height="782" alt="Screenshot 2025-09-13 215422" src="https://github.com/user-attachments/assets/7824c10c-dd05-4d6e-93d9-34467b7c515f" />
 
 <img width="401" height="70" alt="Screenshot 2025-09-13 215452" src="https://github.com/user-attachments/assets/1f911cf9-9279-47ef-bfe3-808ffdf5264d" />
-<img width="1375" height="904" alt="Screenshot 2025-09-13 215518" src="https://github.com/user-attachments/assets/fa94c45f-0dd0-443b-a6bc-75c6d015db19" />
+<img width="1306" height="823" alt="Screenshot 2025-09-13 233138" src="https://github.com/user-attachments/assets/6cbf8903-7d17-4583-b28a-84a31ee6d472" />
 
 <img width="345" height="69" alt="Screenshot 2025-09-13 215532" src="https://github.com/user-attachments/assets/1fd0a8a5-e280-4aa1-bc78-cf695a298e53" />
 <img width="1120" height="854" alt="Screenshot 2025-09-13 215558" src="https://github.com/user-attachments/assets/dae99430-cf84-4155-88fb-2f50fd231e6d" />
 
+🧑‍� Usage:-
+   - Use the sidebar to upload data, select preprocessing, features, and model
+   - Train and evaluate the dataset and provide output
+   - Predict AQI for new data instantly
+   - Visualize results and download models
+
+🧐 Data Validation:-
+   - Built-in checks for missing values, class balance, and outliers
+   - Outlier visualization and feature importance explanations included
+
+👤 Author:-
+ - Sobhit Giri
+
+📄 License:-
+This project is licensed under the MIT License - [MIT License](https://opensource.org/licenses/MIT)
+
+ 
 
 
 
