@@ -24,8 +24,29 @@ This project analyzes historical air quality data to:
    - Submit final report & PPT.
 
 ## ✅ Week 1 Deliverables
-- `README.md`  
-- `notebooks/data exploration.ipynb`
+## 📌 Week 1 Progress (Milestone – 30%)
+
+### 🔹 Tasks Completed
+- Created GitHub repository and project structure  
+- Added `README.md` with project title, dataset source, and workflow plan  
+- Loaded dataset and performed initial checks for missing values  
+- Conducted exploratory analysis with at least 3 visualizations:  
+  - AQI/PM2.5 trend analysis  
+  - Correlation heatmap between pollutants and AQI  
+  - Seasonal/monthly AQI variation  
+
+---
+
+### 🔹 Deliverables
+- **Files**:  
+  - `README.md`  
+  - `01_data_exploration.ipynb`  
+
+- **Results**:  
+  - Dataset successfully loaded  
+  - Missing values identified and handled  
+  - Visual insights generated for AQI trends, correlations, and seasonality  
+
   
   ## 📌 Week-2 Progress
 
@@ -45,9 +66,9 @@ This project analyzes historical air quality data to:
   - R² Score (Coefficient of Determination)  
 
 ### 🔹 Deliverables
-- Notebook: 02_preprocessing
-            03_model_training
-            04_evaluation
+- Notebook: 02_preprocessing.ipynb
+            03_model_training.ipynb
+            04_evaluation.ipynb
 - Dataset: `air_quality_data.csv` (stored in repo as instructed)  
 - Results: Model comparison table & performance metrics
   
