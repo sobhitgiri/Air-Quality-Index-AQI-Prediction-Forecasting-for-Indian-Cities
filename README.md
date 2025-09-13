@@ -114,4 +114,17 @@ This project analyzes historical air quality data to:
   - `models/aqi_model.pkl`  
   - `models/scaler.pkl`  
 
-- **Deployed Streamlit App**: https://sobhitgiri-air-quality-index-aqi-prediction-for-week3app-c8zaoj.streamlit.app/ 
+- **Deployed Streamlit App**: https://sobhitgiri-air-quality-index-aqi-prediction-for-week3app-c8zaoj.streamlit.app/
+
+  <img width="1300" height="551" alt="Screenshot 2025-09-13 232050" src="https://github.com/user-attachments/assets/7ed36ee6-9e34-4f3e-83d1-2c08e7383715" />
+
+🚀 Features
+📊 Data Exploration: Visualize AQI data, distributions, and correlations
+🧹 Preprocessing: Handle missing values, remove outliers, and select features
+🤖 Modeling: Train Random Forest, Logistic Regression, or XGBoost models
+🏆 Evaluation: View classification reports, confusion matrices, and feature importances
+🔮 Prediction: Instantly predict AQI category for new data
+💾 Model Saving/Loading: Save and reload trained models
+🧪 Testing: Automated tests for data and edge cases
+🎨 Modern UI: Clean, responsive, and user-friendly interface
+
