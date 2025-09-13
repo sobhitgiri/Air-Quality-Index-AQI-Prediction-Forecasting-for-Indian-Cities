@@ -49,5 +49,47 @@ This project analyzes historical air quality data to:
             03_model_training
             04_evaluation
 - Dataset: `air_quality_data.csv` (stored in repo as instructed)  
-- Results: Model comparison table & performance metrics  
+- Results: Model comparison table & performance metrics
+  
+## 📌 Week 3 Progress (Final Milestone – 100%)
 
+### 🔹 Tasks Completed
+
+#### Advanced Model Training & Tuning
+- Implemented **XGBoost Regressor** with hyperparameter tuning (`GridSearchCV`)  
+- Retrained the model on the best parameters  
+- Evaluated performance with **RMSE, MAE, and R² score**  
+- Analyzed **feature importance** to identify key pollutants affecting AQI  
+
+#### Model Saving
+- Saved trained model as `models/aqi_model.pkl`  
+- Saved fitted scaler as `models/scaler.pkl`  
+
+#### Streamlit App Development
+- Built an interactive **Streamlit app (`app.py`)** for real-time AQI prediction  
+- Users can input pollutant values (**PM2.5, PM10, NO₂, SO₂, CO, O₃**)  
+- Outputs predicted AQI value along with AQI **category** (Good, Moderate, Poor, etc.)  
+- Integrated `config.py` for cleaner configuration management  
+
+#### Deployment
+- Added `requirements.txt` for dependency management  
+- Deployed app on **Streamlit Cloud**  
+- Accessible at: https://sobhitgiri-air-quality-index-aqi-prediction-for-week3app-c8zaoj.streamlit.app/
+
+---
+
+### 🔹 Deliverables
+- **Notebooks**:  
+  - `03_model_training.ipynb`  
+  - `04_evaluation.ipynb`  
+
+- **Deployment files**:  
+  - `WEEK 3/app.py`  
+  - `WEEK 3/config.py`  
+  - `requirements.txt`  
+
+- **Models**:  
+  - `models/aqi_model.pkl`  
+  - `models/scaler.pkl`  
+
+- **Deployed Streamlit App**: https://sobhitgiri-air-quality-index-aqi-prediction-for-week3app-c8zaoj.streamlit.app/ 
